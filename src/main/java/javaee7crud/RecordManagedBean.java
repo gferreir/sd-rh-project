@@ -8,11 +8,6 @@ import org.primefaces.event.RowEditEvent;
 import javaee7crud.entities.Record;
 import javaee7crud.repositories.RecordRepository;
 
-/**
- * Managed Bean for JSF.
- * 
- * @author Petr Smrcek <smrkous@gmail.com>
- */
 @ManagedBean
 @RequestScoped
 public class RecordManagedBean 

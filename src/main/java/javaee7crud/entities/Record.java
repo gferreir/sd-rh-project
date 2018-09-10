@@ -7,9 +7,6 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
-/**
- * Record entity.
- */
 @Entity
 @Table(name="record", schema="public")
 public class Record implements java.io.Serializable {

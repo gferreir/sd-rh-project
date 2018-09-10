@@ -6,11 +6,6 @@ import javax.ejb.Stateless;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 
-/**
- * Implementation of Record repository using postgresql database and hibernate.
- * 
- * @author Petr Smrcek <smrkous@gmail.com>
- */
 @Stateless(mappedName="recordBean")
 public class RecordRepositoryDatabase implements RecordRepository{
 
