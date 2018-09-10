@@ -13,6 +13,7 @@
 # Maven files
 /target/
 .*
+!.gitignore
 
 # Package Files #
 *.jar
