@@ -1,4 +1,4 @@
-package javaee7crud.entities;
+package fabricadesonhos.entities;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

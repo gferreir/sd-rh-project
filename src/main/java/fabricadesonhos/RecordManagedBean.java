@@ -1,12 +1,12 @@
-package javaee7crud;
+package fabricadesonhos;
 
 import java.util.List;
 import javax.ejb.EJB;
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.RequestScoped;
 import org.primefaces.event.RowEditEvent;
-import javaee7crud.entities.Record;
-import javaee7crud.repositories.RecordRepository;
+import fabricadesonhos.entities.Record;
+import fabricadesonhos.repositories.RecordRepository;
 
 @ManagedBean
 @RequestScoped

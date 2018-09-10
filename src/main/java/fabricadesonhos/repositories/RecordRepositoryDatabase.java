@@ -1,6 +1,6 @@
-package javaee7crud.repositories;
+package fabricadesonhos.repositories;
 
-import javaee7crud.entities.Record;
+import fabricadesonhos.entities.Record;
 import java.util.List;
 import javax.ejb.Stateless;
 import javax.persistence.EntityManager;
