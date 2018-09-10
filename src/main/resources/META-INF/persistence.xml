@@ -4,7 +4,7 @@
     <provider>org.hibernate.ejb.HibernatePersistence</provider>
     <class>fabricadesonhos.entities.Record</class>
     <properties>
-      <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://localhost:5432/JavaEE7Test"/>
+      <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://localhost:5432/fabricadesonhos"/>
       <property name="javax.persistence.jdbc.password" value="1234"/>
       <property name="javax.persistence.jdbc.driver" value="org.postgresql.Driver"/>
       <property name="javax.persistence.jdbc.user" value="javaee7crud"/>
